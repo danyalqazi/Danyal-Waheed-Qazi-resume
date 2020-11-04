@@ -16,7 +16,7 @@ export class FeatureModule {}
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'resume';
+  title = 'Danyal Waheed Qazi-resume';
 myImage:string="assets/image/danyal.jpg";
 
 
