@@ -1,0 +1,14 @@
+img {
+    border-radius: 50%;
+}
+
+.main {
+    background-color: rgb(66, 3, 66);
+    margin-left: 24px;
+    margin-right: 18px;
+    margin-bottom: 20px;
+}
+
+.submain {
+    background-color: silver
+}
